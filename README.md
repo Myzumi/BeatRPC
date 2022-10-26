@@ -3,7 +3,7 @@
 # BeatRPC (BETA)
 BeatRPC is a (yet) Node.js Application that hooks into [Streamer Tools](https://github.com/EnderdracheLP/streamer-tools) and your Local Discord Client to show an amazing Rich Present to show of your BeatSaber Scores while you're playing!
 
-**BeatRPC is only made for Quest 2 or other devices that Support the usage of [BMBF]()**
+**BeatRPC is only made for Quest 2 or other devices that Support the usage of [BMBF](https://sidequestvr.com/app/747/bmbf)**
 
 # Features
 * Connects to your Local running Discord
