@@ -30,8 +30,6 @@ BeatRPC is a (yet) Node.js Application that hooks into [Streamer Tools](https://
 # Issues & Support
 Feel free to open up any Issues here on Github if you having Problems with BeatRPC or have suggestions that you thing i should add to BeatRPC (~~or found a god dam Spelling mistake, as i am not perfect at english~~)
 
-You can also join the BeatRPC [Discord server here]() to talk to the developer directly or reading all new Announcements! 
-
 # Future Plans
 * Making this Project a Standalone Execution
 * Make the Application more Stable
