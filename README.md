@@ -1,14 +1,14 @@
 # **Warning, this is a unreleased Repository, You can see many things here already, but this is still far from done. Expect errors or problems when using this at the current stage!**
 
 # BeatRPC (BETA)
-BeatRPC is a (yet) Node.js Application that hooks into [Streamer Tools](https://github.com/EnderdracheLP/streamer-tools) and your Local Discord Client to show an amazing Rich Present to show of your BeatSaber Scores while you're playing!
+BeatRPC is a Node.js Application that hooks into [Streamer Tools](https://github.com/EnderdracheLP/streamer-tools) and your Local Discord Client to display an amazing Rich Presence to show of your BeatSaber Scores while you're playing!
 
 **BeatRPC is only made for Quest 2 or other devices that Support the usage of [BMBF](https://sidequestvr.com/app/747/bmbf)**
 
 # Features
 * Connects to your Local running Discord
 * Shows a nice RPC with informations about your current BeatSaber map
-* Shows Awesome buttons to directly download the map to try then out
+* Shows Awesome buttons to directly download the map to try them out
 * Most Features are automated, so no need to worry that you need to change anything!
 
 # Requirements
@@ -28,7 +28,7 @@ BeatRPC is a (yet) Node.js Application that hooks into [Streamer Tools](https://
 7. Play a game and let the application take over your Discord RPC! :D
 
 # Issues & Support
-Feel free to open up any Issues here on Github if you having Problems with BeatRPC or have suggestions that you thing i should add to BeatRPC (~~or found a god dam Spelling mistake, as i am not perfect at english~~)
+Feel free to open an Issue here on github if you have problems with BeatRPC or have any suggestions on what I should add to it
 
 # Future Plans
 * Making this Project a Standalone Execution
