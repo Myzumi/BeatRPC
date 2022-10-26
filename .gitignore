@@ -1,4 +1,4 @@
-/.env
+/dev.env
 /.vscode
 /data.txt
 /node_modules
